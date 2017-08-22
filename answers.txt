@@ -1,0 +1,27 @@
+1. I take this course because I think data visualization is very useful tool for research.
+
+2. How to represent data better. How to process data. Tools and program languages for data visualization.
+
+3. Python, Java, C++
+
+4. Python
+
+5. Kind of. I worked in a project for integrating flight data, part of my job is present flights status and statistics on whole environment state.
+
+6. The flight data I mentioned in question 5. I used Karma(semantic model tool) and Spark.
+
+7. 
+
+8. 
+
+9. No answer.
+
+10. No answer.
+
+11. Yes, I used it before.
+
+12. I first get in touch with Git was 5 years ago. As a research programmer in USC last year, I used it a lot.
+
+13. Same answer with question 12.
+
+14. 
