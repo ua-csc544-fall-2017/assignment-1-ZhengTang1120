@@ -20,7 +20,7 @@
 
 11. Yes, I used it before.
 
-12. I first get in touch with Git was 5 years ago. As a research programmer in USC last year, I used it a lot.
+12. I started to use Git 5 years ago. As a research programmer in USC last year, I used it a lot.
 
 13. Same answer with question 12.
 
